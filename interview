@@ -1,1 +1,704 @@
+# About your self
+Thank you for the opportunity. I'd like to walk you through who I am professionally by sharing what the last two years have actually looked like for me. For the past two years, I've been a Senior Customer Success Associate at Firstsource, working in a high-volume customer support environment. While my role was officially an individual contributor, the practical expectation shifted quickly. I was asked to coach newer agents, contribute to appraisal conversations, and help steady the team during peak periods and process transitions. It became a de facto lead responsibility without the formal title, and I chose to treat it as an opportunity to build something, rather than as extra work.
 
+I focused on consistent one-on-ones, tailored to what each agent actually needed — technical help for some, confidence for others, honest pushback for a few. I ran open team huddles, escalated process gaps with specific context rather than just complaints, and stayed closely aligned with cross-functional teams so our work matched where the business was heading.
+
+A big part of making this work is my ability to adapt quickly. I tend to absorb new tools and processes fast, which means I can hit the ground running in almost any environment — whether that's getting fluent in new software within weeks, or streamlining a workflow to save the team time. That adaptability is what frees me up to focus on what actually matters: helping agents succeed.
+
+The outcome was that I was recognized as a Distinguished Achiever for 2024–2025, tied directly to performance and CSAT metrics. But the result that matters most to me is "........." that the agents I worked with showed real improvements in their KPIs.
+
+Two years of doing this informally has made one thing clear: I'm ready to do it with a formal mandate. A Team Executive role is the natural next step for me — not because of the title, but because I want to build deliberately, at a larger scale, with the authority to actually shape how a team develops.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# BPO topics
+1. Average Handle Time (AHT) 
+Definition: AHT is the average total time an agent spends on a customer interaction, including talk 
+time, hold time, and after-call work (ACW). It is calculated as: (Talk Time + Hold Time + ACW) ÷ Total 
+Calls Handled.
+
+Why It Matters: AHT directly affects staffing costs, queue wait times, and customer experience. A 
+high AHT inflates headcount requirements; a too-low AHT can signal rushed calls and poor quality. 
+Industry benchmark typically sits between 4–6 minutes for general service lines, varying by 
+complexity. 
+
+Management Strategies: 
+● Conduct regular call calibration sessions to identify where agents lose time — excessive hold, 
+repetitive verification, or unfamiliarity with tools. 
+● Invest in knowledge base optimisation so agents retrieve information faster without placing 
+customers on hold. 
+● Set AHT targets by interaction type, not blanket averages, to avoid penalising complex 
+queries. 
+
+Q1 | DIAGNOSIS
+Your team's AHT has increased by 45 seconds over the past two weeks. Calls, volume, and
+product remain unchanged. Walk me through how you would identify the root cause.
+Model Answer
+Start by disaggregating AHT into its three components — talk time, hold time, and ACW — to identify where the
+increase is concentrated. Pull the data at both team and individual agent level to determine whether this is a
+systemic or isolated issue.
+• If hold time is up: Investigate navigation issues, system slowness, or process complexity. Check if a recent tool
+or system change is causing agents to put customers on hold more frequently.
+• If talk time is up: Listen to call recordings for patterns — are agents spending more time explaining a new
+policy, dealing with complex issues, or struggling with call control?
+• If ACW is up: Check if a new CRM step, wrap code, or documentation requirement was introduced. Also look
+at whether new agents are joining the team skewing the average.
+• Agent-level analysis: If only 2–3 agents are driving the spike, the root cause is individual coaching gaps. If all
+agents are affected equally, it is a process or system problem.
+Present your findings to management with data visualization (trend chart by component) and a specific action plan
+addressing the identified root cause
+
+Q2 | COACHING DILEMMA
+An agent's AHT is 30% above the team average, but their CSAT scores are the highest on the
+floor. How do you address this with them?
+Model Answer
+This is a quality vs. efficiency trade-off, and it requires a balanced, data-led coaching conversation — not a
+directive to simply 'be faster.'
+• Acknowledge excellence first: Open by recognising their outstanding CSAT. This validates their approach and
+sets a collaborative tone.
+• Use call listening together: Identify specific moments in calls where time could be saved without sacrificing
+quality — for example, reducing filler phrases, using shorter verification scripts, or leveraging keyboard
+shortcuts for ACW.
+• Set a collaborative target: Rather than imposing the team average, agree on a realistic improvement target
+(e.g., reduce by 60–90 seconds over 4 weeks) that maintains their CSAT above threshold.
+• Benchmark and replicate: Document what makes their quality so high and consider using them as a calibration
+model or buddy coach for newer agents.
+The goal is not to make them average — it is to make them efficient without losing what makes them exceptional.
+
+Q3 | MANAGEMENT PRESSURE
+Management wants you to reduce AHT by 20% in 30 days to improve capacity. What steps
+would you take, and what risks would you flag?
+Model Answer
+A 20% AHT reduction in 30 days is an aggressive target. Your plan must be structured, data-driven, and include a
+risk register for leadership.
+• ACW reduction (quickest win): Introduce call summary templates, standardize wrap codes, and train agents on
+efficient note-taking. This typically yields 30–60 seconds of savings with low risk.
+• Hold time reduction: Audit what agents search for during holds. Improve knowledge base accessibility, add
+quick-reference guides, and review frequently consulted resources for consolidation.
+• Talk time improvement: Run call control workshops focusing on structured call openings, probing efficiently,
+and confident closures. Use call listening examples.
+• Risk — FCR impact: Rushing agents can cause incomplete resolutions, increasing repeat contacts and
+negating capacity gains. Monitor FCR weekly as a lagging indicator.
+• Risk — CSAT impact: Customers who feel rushed give lower satisfaction scores. Ensure quality audit scores
+remain stable throughout the initiative.
+Recommend presenting a phased plan: quick wins in week 1–2 (ACW/holds), and sustainable talk time coaching
+in weeks 3–4, with clear metrics and checkpoints.
+
+Q4 | REAL-TIME FLOOR
+During a peak hour you notice 3 agents with AHT exceeding 15 minutes on simple queries.
+What immediate action do you take?
+Model Answer
+Real-time floor management requires fast triage. The priority is resolving the immediate service level impact while
+protecting the customer experience.
+• Silent listen or barge-in: Immediately listen to at least one of the three calls without interrupting to assess
+whether it is a knowledge gap, customer complexity, or system issue.
+• System check: If all three agents are affected simultaneously, suspect a system or tool outage. Check with IT
+or your WFM team for any known issues.
+• Gentle floor intervention: If it is a knowledge gap, send a quick chat message or floor walk to the agent offering
+support — do not disrupt the call.
+• Queue management: Alert WFM of the potential service level risk. Consider pulling agents from lower-priority
+tasks to supplement the queue.
+Post-shift, run a debrief with the three agents individually. Identify if there is a training gap, a new query type
+emerging, or a recurring system issue, and address it before the next peak period
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. Time Management 
+Definition: Time management in a leadership context refers to the structured prioritisation of tasks — 
+for both the leader and the team — to maximise productive output within available hours. 
+Why It Matters: A team executive who cannot model effective time management will struggle to meet 
+SLAs, conduct coaching, and handle escalations simultaneously. Poor time management cascades 
+into missed targets and agent burnout. 
+
+Q1 | STAFFING CRISIS
+You have 20 agents on shift, a heavy call queue, and 4 agents are on scheduled breaks. Two
+agents call in sick. How do you manage the next 2 hours?
+Model Answer
+This is a real-time staffing gap scenario. The priority order is: protect service level, communicate transparently,
+and escalate if needed.
+• Immediate: Stagger the remaining scheduled breaks — delay non-critical breaks by 15–30 minutes to keep
+more agents available during the queue spike.
+• Voluntary overtime: Quickly canvas agents who are ending their shift or on off-days for voluntary coverage.
+Even 2–3 additional agents can significantly reduce queue pressure.
+• WFM escalation: Inform your Workforce Management team immediately. They can adjust real-time staffing,
+trigger contingency plans, or move agents from lower-volume queues.
+• Task suspension: Temporarily suspend non-call activities (coaching sessions, reports, admin) and redirect
+those agents to the queue.
+• Communication: Update the team on the situation and the temporary plan. Transparency reduces stress and
+maintains team morale during the crisis.
+Document the incident post-shift and review the contingency plan with HR/WFM to prevent recurrence.
+
+Q2 | PRIORITY CONFLICT
+You have a team huddle scheduled, a pending PIP document to complete, and a sudden spike
+in call volume. How do you prioritize?
+Model Answer
+Prioritization in operations follows a clear hierarchy: live service > people development > administrative tasks.
+• Service level first: A sudden volume spike directly impacts customer experience and SLA. Defer the huddle
+and redirect your attention to the floor. Communicate the change to your team immediately.
+• Huddle: Reschedule within the same day or early the next shift. Brief your team with a quick 3-minute standing
+update if absolutely necessary, rather than cancelling entirely.
+• PIP documentation: This is important but not time-sensitive to the hour. Complete it after service level
+stabilizes — typically during post-peak or your planning time block.
+The key skill demonstrated here is triage — knowing the difference between urgent and important, and
+communicating changes proactively rather than reactively.
+
+Q3 | AGENT PUNCTUALITY
+An agent is repeatedly late returning from breaks, causing service level to dip. You've
+mentioned it informally twice. What's your next step?
+Model Answer
+Informal conversations have not produced the desired behaviour change. The next step is a formal, documented
+coaching intervention.
+• Formal 1-on-1: Schedule a structured conversation with the agent. Present the data — specific dates, times,
+and the service level impact. Be factual, not emotional.
+• Understand root cause: Before applying consequences, explore whether there is a personal, health, or
+workspace-related reason. Empathy is not an excuse for non-compliance, but it is context.
+• Clear expectations: Restate the break schedule policy, the expected return time, and the consequence of
+continued non-compliance (written warning / formal disciplinary process).
+• Document: Record the conversation, the agreed expectations, and a review date in writing. Share a copy with
+HR and the agent.
+• Follow-up: Monitor adherence closely for the next 2 weeks. Acknowledge improvement or escalate to written
+warning if the behaviour continues.
+
+Q4 | SELF-MANAGEMENT
+You manage coaching, reporting, escalations, and floor walking simultaneously each day.
+Describe how you structure your time to ensure nothing falls through.
+Model Answer
+Effective self-management as a Team Leader requires deliberate time-blocking and disciplined prioritization.
+• Pre-shift (15 mins): Review overnight reports, check staffing, flag any pending escalations or critical agent
+issues for the day.
+• Peak hours: Floor walking, real-time monitoring, and queue management. Coaching and reporting are
+deprioritized during peak.
+• Off-peak blocks: Dedicate 30-minute protected slots for 1-on-1 coaching sessions, call listening, and
+performance reviews.
+• Reporting: Use dashboards and automated reports to reduce manual data pulling. Set a fixed daily time slot
+(e.g., post-peak) for report completion.
+• Escalations: Handle immediately if critical (DSAT, complaint, policy breach). Route non-critical escalations to a
+designated queue and batch-process them.
+Delegation to senior agents or floor walkers for routine monitoring allows the TL to focus on higher-value activities
+like coaching and development.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. Team Management 
+Definition: Team management encompasses the day-to-day leadership of people — scheduling, 
+motivation, conflict resolution, and building a culture of accountability and psychological safety. 
+Why It Matters: Engaged, well-managed teams consistently outperform on every KPI. Gallup 
+research links strong management to a 21% increase in profitability and significantly lower attrition. 
+Management Strategies: 
+● Hold regular 1-on-1s (bi-weekly minimum) to understand individual challenges, career goals, 
+and blockers. 
+● Set clear, measurable expectations using a performance scorecard visible to every team 
+member. 
+● Recognise performance publicly and address performance gaps privately and constructively.
+
+Q1 | TEAM CONFLICT
+Two top-performing agents are in a visible conflict that is affecting team morale. Neither wants
+to escalate formally. How do you handle this?
+Model Answer
+Interpersonal conflict between high performers is particularly sensitive — mishandling it risks losing talent, not just
+resolving a dispute.
+• Separate 1-on-1s first: Meet each agent privately. Listen fully without judgment. Understand each perspective
+before drawing any conclusions.
+• Identify the root cause: Is it a workload issue, a perceived unfairness, a communication misunderstanding, or a
+competition for recognition? The root cause determines the intervention.
+• Joint mediation (with consent): If both parties are open to it, facilitate a structured joint conversation with
+ground rules — focused on behaviour and impact, not personalities.
+• Agree a working protocol: Co-create agreed behaviours for how they will interact professionally going forward.
+Document this outcome.
+• Monitor team impact: Check in with other team members informally to assess morale. Avoid letting the conflict
+become a topic of team gossip.
+Do not avoid this because they are top performers. Unresolved conflict normalizes toxic team dynamics and
+accelerates attrition in the surrounding team.
+
+Q2 | LOW MORALE
+After a sudden process change, your team's engagement drops and several agents express
+frustration publicly. What do you do?
+Model Answer
+Change resistance is a normal human response, especially when the 'why' behind the change has not been
+communicated clearly. The TL's role is to be a credible bridge between leadership and the team.
+• Acknowledge and validate: Hold a team session where you openly acknowledge that the change has caused
+disruption. Never dismiss frustration — it escalates disengagement.
+• Explain the 'why': Share the business rationale behind the change to the extent you are authorised to. Agents
+who understand the purpose are significantly more likely to comply.
+• Collect concerns with solutions: Invite agents to share specific concerns, but pair each concern with a
+question: 'What would make this easier?' This shifts the energy from complaint to problem-solving.
+• Escalate genuine concerns: If the feedback identifies real operational flaws in the new process, escalate to
+management with data and proposed improvements — not just complaints.
+• Recognize early adopters: Publicly acknowledge agents who adapt well and model the new behaviour. Peer
+influence accelerates broader adoption.
+
+Q3 | AGENT DEVELOPMENT
+A high-potential agent is showing signs of disengagement and looking for growth. Your org
+currently has no open TL roles. What do you do?
+Model Answer
+Page 9
+Career growth does not require a promotion. The risk of inaction is losing a high performer to a competitor —
+which costs significantly more than a creative retention strategy.
+• Have an honest conversation: Ask directly what growth means to them. Is it more responsibility, a title change,
+more pay, or different work? Their answer shapes your response.
+• Stretch assignments: Give them ownership of a team project — floor walking shifts, buddy coaching, quality
+calibration, or process improvement tasks.
+• Subject Matter Expert (SME) role: Nominate them as the team's SME for a product, queue, or skill area. This
+provides visibility and recognition without requiring a vacant TL role.
+• Visible career pathway: Build a written development plan with milestones. Even if no role is available now, a
+credible timeline ('TL pipeline, targeting Q3') demonstrates the organisation's investment.
+• Cross-team visibility: Involve them in cross-functional projects or management meetings where they can
+demonstrate their potential to senior stakeholders.
+
+Q4 | SUDDEN UNDERPERFORMANCE
+An agent who was once a consistent performer has declined sharply over 6 weeks. Metrics are
+down, attendance is irregular. What is your approach?
+Model Answer
+A sudden performance change in a previously consistent agent almost always has an underlying cause. The first
+step is to understand, not to judge.
+• Private, empathetic 1-on-1: Create a safe space for the agent to share what is happening. Ask open questions:
+'I've noticed some changes recently and I want to check in — how are you doing?'
+• Explore root causes: Personal issues (health, family, financial stress), burnout, team conflict, or workplace
+dissatisfaction could all be contributing. Each has a different intervention.
+• Agree a support plan: If there is a personal issue, explore EAP (Employee Assistance Programme), flexible
+scheduling, or a temporary adjusted target. Document the agreed support.
+• Performance Improvement Plan (if no improvement): If after a reasonable support period there is no
+improvement, move to a formal PIP with SMART targets, a support structure, and a review timeline.
+The distinction between a support plan and a PIP is intent — a support plan is designed to help, while a PIP is a
+formal performance management tool. Always exhaust the former before the latter/
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5. First Contact Resolution (FCR) 
+Definition: FCR measures the percentage of customer issues resolved in a single interaction without 
+requiring a callback or follow-up. Industry benchmark: 70–75% is considered average; best-in-class 
+operations target 85%+. 
+Why It Matters: FCR is one of the strongest predictors of customer satisfaction and cost efficiency. 
+Each unresolved contact costs roughly double the original interaction in re-handling costs. 
+Management Strategies: 
+● Identify repeat contact drivers by tagging and analysing unresolved calls, then close 
+knowledge or process gaps. 
+● Empower agents with clear escalation authority and decision-making tools to resolve issues 
+on the first call. 
+● Incorporate FCR into quality scorecards so it's coached alongside soft skills. 
+
+Q1 | ROOT CAUSE ANALYSIS
+Your team's FCR drops from 82% to 68% within a month. No product change was made. What is
+your investigation plan?
+Model Answer
+A 14-point FCR drop is significant and warrants a structured root cause investigation before implementing any
+solution.
+• Categorize repeat contacts: Pull data on customers who called back within 48–72 hours for the same issue.
+What are the top 3–5 repeat contact reasons? This is your primary diagnostic.
+• Agent-level breakdown: Identify which agents have the lowest individual FCR rates. Is the drop concentrated
+in specific agents (training/coaching issue) or uniform across the team (process/system issue)?
+• New agent cohort analysis: If new hires joined recently, their lower FCR during ramping is often the driver.
+Segment new vs. tenured agent FCR data separately.
+• Call listening: Listen to 10–15 calls that resulted in a callback. Identify the moment of failure — was the issue
+not resolved correctly, not fully confirmed, or was the agent avoiding complex queries?
+• Knowledge base audit: Check if a policy, FAQ, or process guide was updated but not communicated to the
+team, leaving agents with outdated information.
+Present findings as a structured root cause report: category of failure, volume impact, agent(s) involved, and a
+prioritized action plan with owners and timelines
+
+Q2 | COACHING TRANSFERS
+Page 11
+An agent consistently transfers calls they could resolve themselves. This is hurting FCR. How
+do you coach this behaviour?
+Model Answer
+Excessive transferring is typically driven by one of three root causes: knowledge gap, confidence deficit, or
+avoidance. Each requires a different coaching approach.
+• Identify the root cause first: Listen to 5–10 calls the agent transferred. Were they genuinely outside their skill
+scope, or could the agent have resolved them with the right support?
+• If it is a knowledge gap: Targeted upskilling sessions, knowledge base walkthroughs, and paired coaching with
+a senior agent on those specific query types.
+• If it is a confidence issue: Role-play scenarios in a safe environment. Build a 'first attempt checklist' the agent
+can follow before deciding to transfer.
+• If it is avoidance: Have a direct, honest conversation. Set a measurable target (e.g., reduce unnecessary
+transfers by 50% in 2 weeks) and make it part of their coaching plan.
+• Reward first-contact resolutions: Acknowledge when the agent resolves a complex query without transferring.
+Positive reinforcement builds confidence faster than corrective feedback alone.
+
+Q3 | PROCESS IMPROVEMENT
+Customers are calling back within 48 hours for the same issue despite agents marking calls as
+resolved. What process improvements would you suggest?
+Model Answer
+This pattern indicates a systemic issue with resolution quality or verification, not just individual agent behaviour.
+• Improve call closure technique: Train agents on the 3-step close: summarise the resolution, confirm the
+customer's understanding, and proactively address likely follow-up questions before the customer hangs up.
+• Introduce a resolution confirmation step: Add a mandatory script line before ending the call — 'Is there
+anything else I can help you with today, and are you happy that this issue is fully resolved?'
+• CRM note quality: Audit ACW notes on repeat-contact calls. If notes are vague or incomplete, agents handling
+the repeat contact cannot build on prior resolution attempts, causing duplication of effort.
+• 48-hour repeat contact flag: Implement a system flag that alerts supervisors when a customer calls back within
+48 hours for the same query type. This enables proactive coaching of the original agent.
+• Calibration session: Run a team calibration using repeat-contact call examples. Define what 'fully resolved'
+looks like vs. what constitutes an incomplete resolution
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6. CSAT and DSAT (Customer Satisfaction & 
+Dissatisfaction) 
+Definition: CSAT measures the percentage of customers rating their experience positively (typically 
+4–5 on a 5-point scale); DSAT is the inverse — the proportion rating 1–2, signalling active 
+dissatisfaction. Industry CSAT benchmark: 80–85%+ for service operations. 
+Why It Matters: CSAT drives retention and NPS. DSAT is a leading indicator of churn — dissatisfied 
+customers are four times more likely to defect to a competitor. Both directly reflect team performance 
+and process quality. 
+Management Strategies: 
+● Review DSAT verbatims weekly to identify recurring pain points — product issues, long wait 
+times, or agent behaviour. 
+● Celebrate CSAT wins by sharing positive verbatims with the team to reinforce the right 
+behaviours. 
+● Set individual CSAT targets within team scorecards and link coaching plans to low-scoring 
+interactions.
+
+Q1 | SUDDEN CSAT DROP
+CSAT drops by 12 points in a week across your team. Call volume and staffing are stable. What
+is your action plan?
+Model Answer
+A 12-point drop in one week is a significant signal that something has changed in either the customer experience,
+the agent behaviour, or the feedback environment.
+• Verbatim analysis first: Pull all open-text survey comments from the affected period. Categorize the themes —
+is the feedback about agent tone, wait times, resolution quality, or product issues?
+• Correlate with agent data: Identify if the drop is uniform across the team or driven by 2–3 specific agents.
+Agent-level CSAT breakdown is your most actionable diagnostic.
+• Check for process or script changes: Was a new script, hold procedure, or escalation path introduced? Even
+minor changes can significantly affect how customers feel during the interaction.
+• Call listening with calibration: Pull 10–15 calls from the lowest-rated interactions. Listen with a quality
+framework. Identify specific behaviours or moments that caused dissatisfaction.
+• Urgent team calibration: Run a 30-minute team huddle using good vs. poor call examples. Reset expectations
+on empathy, resolution, and call closure standards.
+Present findings to management within 48 hours with a root cause summary and a 2-week recovery plan with
+measurable milestones
+
+Q2 | AHT vs CSAT TRADE-OFF
+Page 13
+One of your agents has the highest CSAT scores but also the highest AHT. How do you present
+this to senior management?
+Model Answer
+This is a strategic discussion about the relationship between efficiency and quality — not a simple performance
+problem.
+• Frame it as a benchmark opportunity: This agent demonstrates what world-class customer experience looks
+like. Their CSAT score is not coincidental — it is a result of specific behaviours that can be replicated.
+• Analyse what drives their quality: Review their calls to identify the specific behaviours causing high CSAT —
+empathy phrases, complete resolutions, proactive follow-up. These become your team coaching standards.
+• Model the AHT improvement pathway: Present a coaching plan targeting the agent's AHT reduction in a
+specific component (e.g., ACW, hold time) without changing what drives their CSAT.
+• Business case for quality: Model the cost of repeat contacts prevented by high CSAT vs. the capacity cost of
+higher AHT. In many cases, CSAT improvement delivers higher ROI than AHT reduction.
+The message to management: 'This agent is our quality benchmark. We are working collaboratively to improve
+their efficiency without compromising the customer experience that makes them exceptional.'
+
+Q3 | SURVEY COACHING
+Agents are suspected of coaching customers to give 5-star ratings before the survey is sent.
+How do you address this?
+Model Answer
+Coaching customers on survey ratings is a form of data manipulation that undermines the organisation's ability to
+make informed decisions. It must be addressed directly.
+• Audit call recordings: Identify specific instances where agents are prompting ratings. This gives you factual
+evidence rather than suspicion, which is essential for a fair conversation.
+• Team education session: Without naming individuals initially, run a session explaining why authentic CSAT
+matters — business decisions on process, training, and investment are made based on this data.
+• Clear policy communication: State explicitly that coaching customers on survey responses is a policy violation
+with specific consequences, and document this in the team's code of conduct.
+• 1-on-1 with identified agents: Have a private, direct conversation with agents found to be coaching. Distinguish
+between accidental (thanking the customer for their time) and deliberate (telling them to rate 5) behaviour.
+• Reframe CSAT incentives: If CSAT is tied to bonuses in a way that creates pressure to manipulate, raise this
+with management. Incentive design should reward genuine improvement, not gaming
+
+Q1 | PATTERN ANALYSIS
+Your DSAT rate spikes every Monday morning. Volume is the same as other days. What would
+you investigate?
+Model Answer
+A day-specific DSAT pattern points to a structural or staffing issue tied to Monday conditions, not to agent
+behaviour alone.
+• Weekend backlog effect: Customers who had unresolved issues over the weekend arrive on Monday morning
+already frustrated. The first agent they reach absorbs that frustration regardless of their performance.
+• Post-weekend system issues: Are there known system delays, data sync issues, or maintenance windows that
+affect Monday service quality? Cross-check with IT and your WFM team.
+• Monday shift composition: Are less experienced agents, higher proportions of new hires, or reduced TL
+coverage scheduled on Monday mornings? Staffing quality affects both resolution capability and tone.
+• Self-service failure on weekends: If the IVR, chatbot, or website fails to resolve issues over the weekend,
+customers arrive at the call centre on Monday with compounded frustration.
+Action: Run a Monday-specific call audit, correlate DSAT verbatims with time-of-day data, and adjust staffing or
+scheduling to add experienced agents on Monday mornings
+
+Q2 | AGENT-SPECIFIC DSAT
+A customer submits a DSAT with a verbatim comment naming a specific agent for being
+dismissive. How do you handle this?
+Model Answer
+Page 15
+A named DSAT requires a balanced approach — protecting the customer's experience while ensuring the agent is
+treated fairly.
+• Pull and listen to the call: Before any conversation with the agent, review the recording. Assess whether the
+customer's perception of 'dismissiveness' aligns with the actual interaction.
+• Assess objectively: Was the agent genuinely dismissive, or was the customer's interpretation shaped by
+frustration about the issue itself? Both scenarios require different responses.
+• Private coaching conversation: If the behaviour is validated, have a structured, non-punitive conversation. Play
+the relevant section of the call and ask the agent to reflect — 'How do you think the customer felt at this point?'
+• Define the expected standard: Use specific examples of better phrasing. Role-play alternative approaches. Set
+a follow-up review date.
+• Check for pattern: Is this an isolated incident or part of a trend? Pull the agent's last 30 DSAT calls for a trend
+assessment before deciding on the level of intervention.
+Document the feedback, the coaching conversation, and the agreed improvement actions in the agent's
+performance record.
+
+Q3 | SYSTEMIC DSAT
+DSAT verbatim feedback consistently mentions long hold times and unresolved issues, not
+agent behaviour. What do you do?
+Model Answer
+When DSAT is driven by systemic failures rather than agent behaviour, coaching agents will not fix the problem.
+The intervention must be at the operational or process level.
+• Build the business case: Compile the DSAT data, categorized verbatims, and trend over time into a clear
+presentation. Quantify the impact — repeat contacts generated, customer churn risk, revenue at stake.
+• Identify the root causes: Long hold times suggest navigation issues, tool accessibility, or knowledge gaps.
+Unresolved issues suggest empowerment gaps (agents lacking authority to resolve) or process complexity.
+• Propose specific solutions: Do not just escalate the problem — attach proposed fixes. For hold times: improve
+knowledge base, add quick-reference tools. For unresolved issues: review escalation thresholds, expand agent
+authority.
+• Protect your agents: Make it explicit to management that the DSAT is a process or system failure, not an agent
+performance failure. Coaching agents for problems they cannot control damages morale and trust.
+This situation demonstrates operational maturity — the ability to distinguish between agent-driven and
+system-driven problems is one of the most valued skills in a senior TL or operations manager role.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+7. Performance Management 
+Definition: Performance management is the continuous cycle of goal-setting, monitoring, feedback, 
+and development that ensures every team member meets expected standards and grows 
+professionally. 
+Why It Matters: Without a structured performance framework, underperformance festers and top 
+performers disengage. A clear, fair system protects the business legally and culturally. 
+Management Strategies: 
+● Use a balanced scorecard covering productivity (AHT, volume), quality (CSAT, FCR), and 
+behaviour (attendance, adherence). 
+● Follow a PIPs (Performance Improvement Plans) process with documented milestones, 
+support resources, and review dates. 
+● Differentiate management of top, mid, and low performers — develop, retain, and correct 
+respectively.
+
+Q1 | PIP CONVERSATION
+You need to put an agent on a Performance Improvement Plan. They are defensive and deny
+there is an issue. How do you conduct this conversation?
+Model Answer
+A PIP conversation with a resistant agent requires careful preparation, emotional regulation, and an unwavering
+focus on data over opinion.
+• Prepare with data: Enter the conversation with specific, documented evidence — metric reports, call scores,
+attendance records. Never rely on general impressions.
+• Open with structure, not accusation: 'I want to talk through your performance data over the last 8 weeks and
+share some concerns I have.' Avoid emotional language like 'you have been letting the team down.'
+• Acknowledge their perspective: If the agent pushes back, say 'I hear that you see it differently. Can you walk
+me through your view?' Listen genuinely — there may be context you are missing.
+• Return to data: After acknowledging, redirect: 'I understand your perspective, and I want to make sure we also
+look at the data together.' Reviewing the data together is more effective than presenting conclusions.
+• SMART goals and support: Frame the PIP as a structured support tool, not a disciplinary end-point. Agree
+specific, measurable targets, the support you will provide, and the review timeline.
+Close by asking: 'What support do you need from me to achieve these targets?' This shifts the dynamic from
+punitive to collaborative, which improves the probability of success.
+
+Q2 | INCONSISTENT PERFORMANCE
+An agent performs well when you are present but underperforms when you are away. How do
+you address this?
+Model Answer
+This behaviour pattern — sometimes called 'supervisor effect' — indicates the agent is capable of meeting
+standards but is choosing not to when accountability is perceived as lower.
+• Lead with data from all shifts: Present performance data across observed and unobserved shifts side-by-side.
+This makes the pattern undeniable without relying on subjective observation.
+• Discuss accountability and self-management: 'The standard I need from you is the same whether I am on the
+floor or not. Your metrics should reflect what you are capable of, not who is watching.'
+• Use remote monitoring tools: Implement structured call listening from unobserved shifts. Share findings in
+coaching to show the agent that performance is always visible, not just when you are physically present.
+• Peer accountability: Consider a buddy or senior agent check-in system during your absence. This distributes
+accountability without requiring your constant physical presence.
+• Formal follow-up: If the pattern continues after the conversation, document it as a performance pattern and
+initiate a structured coaching plan with clear consequences
+
+Q3 | TEAM-WIDE KPI MISS
+Page 17
+Your entire team misses KPIs for two consecutive months. Your manager asks you what went
+wrong. How do you respond?
+Model Answer
+The response to a team-wide performance failure must demonstrate accountability, analytical thinking, and a
+credible recovery plan.
+• Own accountability: Begin by acknowledging your role as the team leader. Avoid deflecting to external factors
+as the primary explanation, even if they contributed.
+• Present a structured root cause analysis: Categorize the contributing factors — staffing changes,
+product/process changes, training gaps, morale factors, or WFM planning issues. Use data to support each
+factor.
+• Distinguish controllable from uncontrollable: Some factors (system outages, volume spikes) are outside your
+control. Others (coaching frequency, calibration quality, agent motivation) are within it. Be honest about both.
+• Present a recovery plan: Outline specific actions, owners, timelines, and success metrics. A recovery plan
+must be time-bound — 'we will return to target within 6 weeks' with weekly milestones.
+The key message: 'I take responsibility for the team's performance. Here is what I believe contributed, what I am
+doing about it, and how I will ensure it does not recur.' Managers respond to accountability paired with
+competence.
+
+Q4 | RECOGNITION DILEMMA
+You have budget for one 'best performer' reward this month, but two agents are tied on all
+metrics. What do you do?
+Model Answer
+This tests your judgment on fairness, team culture, and the purpose of recognition — not just metric-reading.
+• Look beyond metrics: When quantitative scores are tied, examine qualitative factors — consistency over the
+month vs. a late surge, team contribution (helping colleagues, mentoring), attendance, and attitude during
+difficult periods.
+• Consult quality scores: If QA scores differ between the two, use this as the tiebreaker. Quality is often
+under-weighted in pure metric comparisons.
+• Split recognition creatively: If you genuinely cannot differentiate, consider one formal award and one public
+recognition (shoutout in team meeting, message to senior manager). Both agents feel valued without the budget
+being exceeded.
+• Be transparent: Briefly explain to the team how the decision was made. Transparency builds trust in the
+recognition system and reduces resentment.
+Avoid flipping a coin or defaulting to seniority. The recognition process is a leadership moment — how you decide
+communicates what your team values and what behaviours you reward
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+8. Shrinkage and Shrinkage Formula 
+Definition: Shrinkage is the percentage of scheduled time during which agents are unavailable to 
+handle contacts, including breaks, training, meetings, absenteeism, and system downtime. 
+Formula: Shrinkage % = (Total Hours Lost ÷ Total Hours Scheduled) × 100 
+Industry benchmark: 25–35% is typical; exceeding 40% signals a structural workforce problem. 
+Why It Matters: Shrinkage directly determines how many agents must be scheduled to hit service 
+level targets. Under-accounting for shrinkage results in understaffing, long queues, and SLA 
+breaches. 
+
+Q1 | CALCULATION
+Your centre has 50 agents working 8-hour shifts. Daily shrinkage averages 22%. How many
+productive hours are actually available?
+Model Answer
+This is a direct application of the shrinkage formula.
+• Total scheduled hours: 50 agents x 8 hours = 400 hours.
+• Shrinkage hours lost: 400 x 22% = 88 hours unavailable.
+• Productive hours available: 400 - 88 = 312 hours.
+• Staffing implication: Workforce Management uses this to determine how many agents to roster vs. how many
+are actually needed on the phones. If you need 400 productive hours, you would need to schedule
+approximately 513 hours worth of agents (400 / 0.78) to account for the shrinkage.
+Understanding shrinkage helps TLs and WFM avoid the common mistake of equating headcount with capacity. A
+team of 50 agents is not the same as 50 agents available to handle contacts
+
+Q2 | REDUCING UNPLANNED SHRINKAGE
+Page 19
+Your unplanned shrinkage has risen to 18% versus a target of 10%. What steps do you take to
+bring it down?
+Model Answer
+Unplanned shrinkage is largely driven by absenteeism, late logins, and extended breaks. Each has a distinct
+intervention.
+• Root cause breakdown: Analyse unplanned shrinkage by category. Is the primary driver absenteeism, late
+logins, or something else? The intervention must match the cause.
+• Attendance management: Implement a clear return-to-work process for absences. Review patterns (same day
+each week? after specific shifts?) to identify potential disengagement or burnout signals.
+• Schedule adherence tools: Use real-time adherence dashboards to flag agents who are off-queue without
+authorisation. Address immediately rather than at end of shift.
+• Engagement interventions: High unplanned shrinkage often signals low engagement or burnout. Run stay
+interviews and team pulse checks to identify root causes beyond logistics.
+• Incentivise attendance: Where HR policy allows, recognise teams or individuals with strong attendance
+records. A positive reinforcement approach is often more effective than punitive measures alone.
+Target the 8% gap (18% vs 10%) in phases: address the top 1-2 categories driving the most hours first, then
+tackle secondary factors.
+
+Q3 | TRAINING SCHEDULING
+You need to plan a 2-hour mandatory product training for 30 agents during a high-volume day.
+How do you minimise the shrinkage impact?
+Model Answer
+Planning training on a high-volume day requires careful batching, timing, and WFM coordination.
+• Batch into groups: Split 30 agents into 3 groups of 10. Each group attends a 2-hour session in rotation,
+ensuring 20 agents remain available at any given time.
+• Schedule during low-volume windows: Use historical intraday volume data to identify the quietest 2-hour
+windows (typically mid-morning or early afternoon on most campaigns). Schedule each batch there.
+• WFM coordination: Flag the training plan to WFM in advance. They can adjust the staffing model, flag the
+shrinkage uplift, and arrange contingency coverage if needed.
+• Pre-brief agents: Ensure agents know the schedule in advance so break and lunch patterns can be adjusted
+around training slots.
+Document the planned vs. actual shrinkage impact post-training. This data helps improve future training
+scheduling decisions
+
+------------------------------------------------------------------------------------------------------------------------
+
+9. Attrition 
+Definition: Attrition is the rate at which employees leave the organisation (voluntary and involuntary) 
+over a given period. Formula: (Leavers ÷ Average Headcount) × 100. Contact centre industry 
+average: 30–45% annually, though best-in-class operations target below 20%. 
+Why It Matters: Each agent departure costs an estimated 20–40% of annual salary in recruitment, 
+onboarding, and productivity loss. High attrition destabilises team performance and erodes 
+institutional knowledge.
+
+Q1 | SUDDEN EXITS
+Three of your best agents resign in the same month citing 'lack of growth.' What immediate and
+long-term actions do you take?
+Model Answer
+Three simultaneous resignations from high performers is a critical retention signal that requires both immediate
+damage control and a structural response.
+• Immediate — stay interviews: Within the next 5 business days, hold confidential 1-on-1 stay interviews with
+every remaining team member. Ask: 'What keeps you here? What would make you consider leaving?'
+• Immediate — retention conversations: Identify the next 3–5 agents most at risk of leaving based on tenure,
+engagement signals, and informal feedback. Have proactive retention conversations.
+• Escalate with data: Present the 3 exits to HR and senior management with the 'lack of growth' theme as the
+stated cause. Frame it as a systemic risk, not 3 isolated incidents.
+• Long term — visible career paths: Work with HR to build and communicate a documented growth pathway —
+from agent to senior agent, SME, TL, quality coach, and beyond — with clear criteria for each step.
+• Long term — stretch opportunities: While formal promotions are created, implement SME roles, project
+ownership, and cross-functional secondments as immediate growth outlets.
+The cost of replacing a high performer is typically 1.5–2x their annual salary when you factor in recruitment,
+onboarding, and performance ramp time. Retention investment is always cheaper.
+
+Q2 | EXIT DATA
+Page 21
+Exit interview data shows 60% of agents who left cited 'team leader behaviour' as the primary
+reason. You are the TL. How do you respond?
+Model Answer
+This is one of the most personally challenging feedback scenarios a TL can face. The response must demonstrate
+self-awareness, professionalism, and a genuine commitment to change.
+• Do not get defensive: Defensive responses in this context signal a lack of self-awareness, which compounds
+the original problem. The appropriate initial response is: 'Thank you for sharing this with me. I want to
+understand it better.'
+• Request specific examples: Ask HR for specific, anonymised verbatims from exit interviews. General feedback
+like 'team leader behaviour' is not actionable without specifics.
+• Self-audit: Review your recent interactions, coaching conversations, communication style, and any decisions
+that may have caused friction. Be honest about what you find.
+• 360-degree feedback: Request a structured 360 from your current team (anonymous format through HR) to
+identify patterns. This demonstrates courage and a genuine desire to improve.
+• Coaching from your manager: Engage your own line manager or an HR business partner for coaching. Model
+the same development behaviours you expect from your agents.
+The TLs who respond to this feedback with accountability and a structured development plan are the ones who
+build the strongest long-term teams. This scenario is a professional growth opportunity, not a career-ending event.
+
+Q3 | HIGH ATTRITION QUARTER
+Your attrition is 25% this quarter versus a 12% target. Your manager asks you to present a
+recovery plan. What does it include?
+Model Answer
+A recovery plan for high attrition must address root causes, not just symptoms, and must be credible to leadership
+with specific timelines and metrics.
+• Attrition breakdown: Segment by voluntary/involuntary, regretted/non-regretted, tenure band (new hire vs.
+tenured agents), and shift pattern. Each segment has different drivers and interventions.
+• Root cause analysis: Based on exit interviews and stay interview data, identify the top 3 drivers. Common
+causes: pay competitiveness, management relationship, workload/burnout, lack of growth, commute/flexibility.
+• Hiring pipeline: High attrition requires a parallel response on the supply side. Work with TA (Talent Acquisition)
+to accelerate the pipeline, improve quality of hire screening, and strengthen onboarding to reduce early-tenure
+exits.
+• Engagement interventions: Launch a structured engagement programme — recognition schemes, flexible
+scheduling, team social activities, and transparent communication about the organisation's direction.
+• Short-term metrics: Set weekly attrition tracking with leading indicators (resignation notices received,
+employees at risk flagged in stay interviews, engagement pulse scores).
+Present the plan in 3 horizons: 30-day quick wins (engagement, stay interviews, pipeline), 60-day structural
+changes (career paths, manager coaching), 90-day target (return to 12% annualised rate).
+
+Q4 | RETENTION CONVERSATION
+A high performer tells you informally they have received an external offer. You cannot match
+the salary. What do you do?
+Model Answer
+A salary counter-offer that cannot be matched forces a conversation about total value, not just base pay. Research
+consistently shows that counter-offers without structural change result in the agent leaving within 6 months
+anyway.
+• Listen first: Before proposing anything, understand the full picture. Is the external offer purely about money, or
+are there other factors — role type, flexibility, commute, culture?
+• Explore non-monetary value: Map what your organisation offers that the external role may not — stability,
+team relationships, career path, brand, work-life balance, benefits, and development opportunities.
+• Make a credible case for the future: If a promotion or pay review is genuinely on the horizon (within 3–6
+months), present this specifically with a timeline. Vague promises accelerate exits, not retention.
+• Be honest: If you cannot match the offer and cannot offer a near-term improvement, say so directly.
+Respecting the agent's decision builds trust and may result in a positive departure — they are more likely to
+return or refer others.
+• Escalate if possible: If the agent is genuinely critical to the team, escalate to HR or your manager immediately
+with the business case for a salary exception.
+Document the conversation regardless of outcome. If they stay, set a 30-day check-in. If they leave, use the
+information to strengthen your retention strategy for the rest of the team.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
